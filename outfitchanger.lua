@@ -161,4 +161,3 @@ mouse.KeyDown:connect(function(key) -- whenever a key is pushed down
 		frame.Visible = not frame.Visible -- flip between visible/invisible
 	end
 end)
-  	end    
