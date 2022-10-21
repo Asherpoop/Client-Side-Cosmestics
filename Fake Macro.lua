@@ -129,7 +129,7 @@ userInput.InputBegan:connect(function(Key)
         end
     end
 OrionLib:MakeNotification({
-	Name = "Title!",
+	Name = "Executed!",
 	Content = "Fake Macro Have Been Executed, C To Toggle!",
 	Image = "rbxassetid://4483345998",
 	Time = 5
