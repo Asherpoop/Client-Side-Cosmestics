@@ -128,4 +128,11 @@ userInput.InputBegan:connect(function(Key)
             until Enabled == true
         end
     end
+OrionLib:MakeNotification({
+	Name = "Title!",
+	Content = "Fake Macro Have Been Executed, C To Toggle!",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+})     
 end)
+
