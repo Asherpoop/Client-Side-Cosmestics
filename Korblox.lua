@@ -6,9 +6,3 @@ chr.RightUpperLeg.MeshId = "http://www.roblox.com/asset/?id=902942096"
 chr.RightUpperLeg.TextureID = "http://roblox.com/asset/?id=902843398"
 chr.RightFoot.MeshId = "902942089"
 chr.RightFoot.Transparency = "1"
-OrionLib:MakeNotification({
-	Name = "Executed!",
-	Content = "Korblox Executed",
-	Image = "rbxassetid://4483345998",
-	Time = 5
-})
