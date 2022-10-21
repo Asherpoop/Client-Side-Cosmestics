@@ -161,7 +161,7 @@ mouse.KeyDown:connect(function(key) -- whenever a key is pushed down
 		frame.Visible = not frame.Visible -- flip between visible/invisible
 	end
 		OrionLib:MakeNotification({
-	Name = "Title!",
+	Name = "Executed!",
 	Content = "Outfit Changer Is Executed, Toggle P",
 	Image = "rbxassetid://4483345998",
 	Time = 5
