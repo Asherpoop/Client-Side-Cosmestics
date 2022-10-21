@@ -9,4 +9,12 @@ Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=616156119
 Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=10921159222"
 game.Players.LocalPlayer.Character.Humanoid.Jump = false
 wait(1)
-end	
+
+OrionLib:MakeNotification({
+	Name = "Zombie Animation Have Been Executed!",
+	Content = "Notification content... what will it say??",
+	Image = "rbxassetid://7059346373",
+	Time = 5
+})
+
+end
