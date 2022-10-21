@@ -23,7 +23,7 @@ local lista_de_victimas_de_drizzy = getrenv()._G
 local da_hood_rblxm_REAL = getrawmetatable(game)
 local CP = da_hood_rblxm_REAL.__newindex
 local CP_DE_DRIZZY = da_hood_rblxm_REAL.__index
-local velocidad_de_cum = 322
+local velocidad_de_cum = 122
 local es_pedofilo = true
 
 -- // funciones para acortar codigo :]
